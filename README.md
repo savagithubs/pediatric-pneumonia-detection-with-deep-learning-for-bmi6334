@@ -1,6 +1,7 @@
 # Deep Learning for Pediatric Pneumonia Detection Using Chest X-Ray Images
 
 **Author:** Mwidy Mounange-Badimi
+
 **Course:** BMI 6334 – Deep Learning in Biomedical Informatics
 
 ## Overview
